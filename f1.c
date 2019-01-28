@@ -27,7 +27,7 @@ return a%b;
 }
 int main()
 {
-int n,m;
+int n,m,v,w,x,y,zi;
 scanf("%d%d",&n,&m);
 v=add(n,m);
 w=sub(n,m);
